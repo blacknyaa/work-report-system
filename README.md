@@ -209,3 +209,22 @@ php tools/preflight.php
 1. **A4が1枚に収まるか** — プレビューで `?guide=1`、または Ctrl+P
 2. **オフラインの動き** — 開発ツールの Network を Offline にして 2-1〜2-5 を進む
 3. **マイク入力** — 実際のタブレットで。HTTPS が要る
+
+---
+
+## つくった人
+
+ブラックにゃー（blacknyaa）— 大阪のフリーランスAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
+
+共用サーバーのような制約の多い環境でも動かしきるのが得意です。このリポジトリも、さくらのレンタルサーバで動かす前提から逆算して、Composer も Node も使わない構成にしています。
+
+| | |
+|---|---|
+| ランサーズ | [ブラックにゃー (Ponta-0363)](https://www.lancers.jp/profile/Ponta-0363) |
+| note | [note.com/blacknyaa](https://note.com/blacknyaa) |
+| Qiita | [qiita.com/blacknyaa](https://qiita.com/blacknyaa) |
+| Zenn | [zenn.dev/blacknyaa](https://zenn.dev/blacknyaa) |
+| YOUTRUST | [youtrust.jp/users/blacknyaa](https://youtrust.jp/users/blacknyaa) |
+| GitHub | [github.com/blacknyaa](https://github.com/blacknyaa) |
+
+お仕事のご相談は、ランサーズ経由でも直接でも受けています。NDAも対応します。
